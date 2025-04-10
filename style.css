@@ -1,0 +1,102 @@
+.body{
+   background-color: aliceblue;
+}
+.card{
+    height: 600px;
+    width: 600px;
+    border-radius: 15px;
+    border: none;
+}
+.save-bar{
+    height: 60px;
+    margin-left: 120px;
+    margin-right: 150px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 15px;
+}
+.upload-box{
+    height: 100px;
+    margin-top: 20px;
+    border: 2px dashed;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+      background-color: rgb(245, 247, 248);
+      color:rgb(200, 196, 196);
+      transition: border-color 0.3s ease;
+
+}
+.upload-subtext{
+    font-size: small;
+  
+}
+.label-required{
+    font-weight: 500;
+    color: #73737d
+}
+.gt:after{
+    content: "*";
+    color: red;
+}
+.form-select{
+    border-radius: 12px;
+    border-color: rgb(236, 230, 230);
+
+}
+.form-select:hover{
+    border-color: blue;
+}
+.form-control{
+    border-radius: 12px;
+    border-color: rgb(236, 230, 230);
+}
+.form-control:hover{
+    border-color: blue;
+
+}
+.input-icon{
+    position: absolute;
+    
+      
+}
+.container{
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+.warning-box{
+    height: 80px;
+    border-radius: 12px;
+    padding-left: 10px;
+}
+.warning-message{
+    font-size: 12px;
+}
+
+.value-box{
+    
+    border: 1px solid #d0d0d0;
+    padding: 6px 14px;
+  
+    border-radius: 10px; 
+    font-weight: 600;
+    color: #2d2f53;
+    background-color: #fff;
+    font-size: 12px;
+   
+  
+}
+.self-box{
+    height: 180px;
+    width: 550px;
+    border: solid 1px;
+    border-color: rgb(236, 230, 230);
+
+
+}
+.self-box:hover{
+    border-color: blue;
+
+}
+    
+
